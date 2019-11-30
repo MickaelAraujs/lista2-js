@@ -1,4 +1,5 @@
-/*7. Escreva um script que leia o nome dos 26 estados brasileiros e do distrito federal e os armazene em um array, ao final deve-se imprimir o array com os valores ordenados em ordem alfabética*/
+/*7. Escreva um script que leia o nome dos 26 estados brasileiros e do distrito federal e os armazene em um array, ao final deve-se 
+imprimir o array com os valores ordenados em ordem alfabética*/
 let estados = [
     'Acre',
     'Alagoas',
